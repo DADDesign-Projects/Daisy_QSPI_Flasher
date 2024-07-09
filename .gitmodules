@@ -1,0 +1,6 @@
+[submodule "Daisy_QSPI_Flasher_Server"]
+	path = Daisy_QSPI_Flasher_Server
+	url = https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher_Server
+[submodule "Daisy_QSPI_Flasher_client"]
+	path = Daisy_QSPI_Flasher_client
+	url = https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher_client
