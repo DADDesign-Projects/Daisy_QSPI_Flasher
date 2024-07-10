@@ -39,9 +39,10 @@ Clone the project / *Clonez le projet* :
 git clone --recurse-submodules https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher your_directory
 ```
 ### Client
-
+[Repositorie](https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher_Client).  
+  
 The code can be modified and compiled in VS Code within the Daisy Seed development environment (see https://github.com/electro-smith).  
-Le code est modifiable et compilable sous VS Code dans l’environnement de développement du Daisy Seed (voir https://github.com/electro-smith).  
+*Le code est modifiable et compilable sous VS Code dans l’environnement de développement du Daisy Seed (voir https://github.com/electro-smith).*  
 #### Configuration
 Adapt the Makefile to the location of the libraries:  
 *Le fichier Makefile est à adapter en fonction de l’emplacement des librairies :*
@@ -58,7 +59,8 @@ Adapt the .vscode/c_cpp_properties.json file as well:
   "${workspaceFolder}/../../../Desktop/DaisyExamples/DaisySP//**"
 ```
 ### Server
-
+[repositorie](https://github.com/DADDesign-Projects/Daisy_QSPI_Flasher_Server).  
+  
 The code is written under Microsoft Visual Studio 2022.  
 *Le code est écrit sous Microsoft Visual Studio 2022.*
 
